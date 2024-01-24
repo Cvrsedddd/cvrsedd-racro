@@ -20,7 +20,7 @@ const commands = [
     name: 'ping',
     description: 'Replies with Pong!',
   },
-  {
+{
     name: 'addpremium',
     description: 'Give premium role to a user',
     options: [
