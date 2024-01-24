@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1",
+    "figlet": "^1.6.0",
+    "gradient-string": "^2.0.2",
+    "hypixel-api": "^1.2.0",
+    "mineflayer": "^4.10.0",
+    "mineflayer-pathfinder": "^2.4.5"
+  }
+}
